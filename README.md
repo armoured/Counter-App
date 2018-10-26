@@ -2,5 +2,6 @@ This is a project for learning ReactJS. It's a simple counter app that increment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To obtain node modules make sure to run npm install
+To obtain node modules make sure to run npm install.
+
 Run this program with npm start
